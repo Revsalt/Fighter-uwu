@@ -144,9 +144,3 @@ Received Import Request.
   path: Assets/ExampleAssets
   artifactKey: Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/ExampleAssets using Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ac45704b3e904ca5b19a6457cc79ac') in 0.008361 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 76.465184 seconds.
-  path: Assets/TutorialInfo
-  artifactKey: Guid(49110bb8dcada46328ad741970bce702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TutorialInfo using Guid(49110bb8dcada46328ad741970bce702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de5a30219286eb2a872f2f84d66d9616') in 0.044005 seconds 
